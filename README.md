@@ -3,7 +3,12 @@ First of all I would like to give a huge shoutout to **[acevault.github.io](http
 stuff idk
 
 
-**Google Analytics:** Register an account **[here](https://analytics.google.com/analytics/web/)** and add your id in the script that's in your index.html.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mPGi1IHQxFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 #### Legal
 No copyright whatsoever. Free to use, copy, share, edit or even steal, if that'd make you feel good.\
