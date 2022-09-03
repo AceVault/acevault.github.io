@@ -1,6 +1,9 @@
 # acevault test website
 First of all I would like to give a huge shoutout to **[acevault.github.io](https://acevault.github.io/)**!\
-stuff idk
+
+
+
+<img src="https://media.discordapp.net/attachments/796885087526191157/1004931139112280104/unknown.png?width=1238&height=691" alt="Italian Trulli">
 
 
 
@@ -10,11 +13,5 @@ stuff idk
 
 acevault#5165
 
-#### Legal
-No copyright whatsoever. Free to use, copy, share, edit or even steal, if that'd make you feel good.\
-I would really appreciate it nonetheless if below the entire page, you could add this:
-```html
-<!-- Thanks DeveloPerry for providing a well-structured startup template. -->
-```
 
 
