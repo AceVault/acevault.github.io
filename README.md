@@ -1,5 +1,6 @@
-# acevault test website First of all I would like to give a huge shoutout to **[acevault.github.io](https://acevault.github.io/)**!\
+# acevault test website!  **[acevault.github.io](https://acevault.github.io/)**!\
 
+**cool stuff will be added later**
 
 <a href="https://acevault.github.io/epicsites">
 <img alt="fun stuff!!!" src="https://cdn.discordapp.com/attachments/796885087526191157/1015648097893896212/websitelogo.png"
