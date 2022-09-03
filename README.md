@@ -14,3 +14,10 @@ width="650">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gtZhEKdsR4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
          
 acevault#5165
+
+
+
+         
+
+
+<iframe src="https://discord.com/widget?id=1015659861733822554&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
