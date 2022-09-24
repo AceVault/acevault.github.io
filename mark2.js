@@ -25,5 +25,5 @@ document.toggle=function(a){const b=document.getElementById(a);b.checked?chrome.
       }
 </style>
 `,document.body.innerHTML=`
-<h1 style="text-align: center">Extension Panel</h1>
-`,0===a.length?document.body.innerHTML+=`<p style="color: red">There are no school installed extensions</p>`:a.forEach(a=>b(a))}):(alert("Run this script again but while on this page"),location.href="https://chrome.google.com/webstore_");
+<h1 style="text-align: center">acevault's extension pooper</h1>
+`,0===a.length?document.body.innerHTML+=`<p style="color: red">There are no school installed extensions</p>`:a.forEach(a=>b(a))}):(location.href="https://chrome.google.com/webstoreTROLLEDLMAOAOOAOAOAO");
