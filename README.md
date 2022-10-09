@@ -22,7 +22,7 @@ acevault#5165
          
          
          
-         https://raw.githubusercontent.com/AceVault/acevault.github.io/master/exploit.js
+        
          
          
 
