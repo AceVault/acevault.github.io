@@ -1,6 +1,6 @@
-# acevault test website!  ***[acevault.github.io](https://acevault.github.io/)***
+# acevault website  ***[acevault.github.io](https://acevault.github.io/)***
 
-**cool stuff will be added later**
+**cool stuff i put here randomly, idk maybe hacking crap**
 
 <a href="https://acevault.github.io/epicsites">
 <img alt="fun stuff!!!" src="https://cdn.discordapp.com/attachments/796885087526191157/1015648097893896212/websitelogo.png"
