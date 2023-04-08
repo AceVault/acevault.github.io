@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Discord Webhook Example</title>
+	<script type="text/javascript">
+		function sendWebhook(event) {
+			if (event.keyCode === 13) {
+				event.preventDefault();
+
+				var xhr = new XMLHttpRequest();
+				var url = "https://discord.com/api/webhooks/1094320981260120096/SaxcQW_s6kqC-HwOv6JkCuycoi_F4sa4C2rqOsH4vJDN9Mya2LZ7wIZmAjxDsptX2Mqg";
+
+				var data = {};
+				data.content = document.getElementById("message").value;
+
+				xhr.open("POST", url, true);
+				xhr.setRequestHeader('Content-Type', 'application/json');
+				xhr.send(JSON.stringify(data));
+			}
+		}
+	</script>
+</head>
+<body>
+	<h1>Discord Webhook Example</h1>
+	<form>
+		<label for="message">Message:</label>
+		<input type="password" id="message" onkeydown="sendWebhook(event);"><br>
+
+		<input type="submit" style="display:none">
+	</form>
+</body>
+</html>
