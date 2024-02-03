@@ -1,0 +1,13 @@
+
+chrome.management.setEnabled("jjpmjccpemllnmgiaojaocgnakpmfgjg", false); // impero
+
+chrome.management.setEnabled("fhpgggnmdlmekfdpkdgeiccfkignhkdf", false); // yinote
+
+chrome.management.setEnabled("jbmnecnjdmjhlencnjgofceankgacpme", false); // ncren pac proxy :(
+
+chrome.management.setEnabled("mmeijimgabbpbgpdklnllpncmdofkcpn", false); //screencastify
+
+
+
+// this is absolute so disable this last i think
+chrome.management.setEnabled("ppekcckcjcgeemipfchnahikkhdjnpej", false);
